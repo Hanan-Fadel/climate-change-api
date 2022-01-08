@@ -6,4 +6,4 @@ To run this project
 2. npm run start //to run the server:
 3. Open http://localhost:4500/news in the browser to see the results of the scrape in your terminal. 
 
-Note: You can also used certain paramters to get news from individual sources, i.e. http://localhost:4500/news/thetimes
+Note: You can also use certain parameters to get news from individual sources, i.e. http://localhost:4500/news/thetimes
